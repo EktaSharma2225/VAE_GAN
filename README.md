@@ -28,5 +28,3 @@ This repository contains implementations of two popular generative deep learning
 - Training and evaluating VAE and GAN architectures
 - Visualizing generated and reconstructed images
 
-## License
-This project is intended for educational and learning purposes.
